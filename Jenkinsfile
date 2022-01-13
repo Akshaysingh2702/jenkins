@@ -1,14 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@nkumarrtc 
-devopscube
-/
-declarative-pipeline-examples
 pipeline {
     agent any
         stages {
